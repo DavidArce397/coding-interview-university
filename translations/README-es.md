@@ -495,7 +495,7 @@ Escriba código en un pizarrón o en papel, pero no en la computadora. Pruebe co
         - [answers to questions](https://github.com/lekkas/c-algorithms)
 
 - [ ] **Cómo las computadoras procesan un programa:**
-    - [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
+    - [x] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
     - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 ## Complejidad algorítmica / Big-O / Análisis asintótico
